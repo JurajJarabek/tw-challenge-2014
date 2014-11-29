@@ -1,0 +1,19 @@
+
+Metrics
+
+
+There are many which will be specific to your product, but the major ones would include:
+
+User registrations over time
+User visits over time
+User activity over time
+Average time that user spend doing one transaction
+How many downloads from Apple Store/Google Play
+Comparison of all transactions with successful
+
+This should give you a sense of 
+1) traction,
+2) retention, 
+3) engagement over time. 
+
+These trends can be graphed and mapped to feature improvements, marketing campaigns, etc., and can be leveraged to attract investors and partners to your startup.
