@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/Development/SlidingMenu/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_send_money</item>
+        <item>@drawable/ic_history_of_payments</item>
+        <item>@drawable/ic_user_profile</item>
+        <item>@drawable/ic_notifications</item>
+        <item>@drawable/ic_settings</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Send Money</item>
+        <item>History of Payments</item>
+        <item>Profile</item>
+        <item>Notifications</item>
+        <item>Settings</item>
+    </string-array>
+    <!-- From: file:/D:/Development/SlidingMenu/app/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="counter_text_bg">#81F7F3</color>
+    <color name="counter_text_color">#272727</color>
+    <color name="list_background">#0B3861</color>
+    <color name="list_background_pressed">#01A9DB</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="send_money">#81DAF5</color>
+    <!-- From: file:/D:/Development/SlidingMenu/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/Development/SlidingMenu/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">EasyTransfer</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Menu Closed</string>
+    <string name="drawer_open">Menu Opened</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inline_preferences">Notifications</string>
+    <string name="others_preferences">Otheres</string>
+    <string name="preference_logout">Logout</string>
+    <string name="summary_checkbox_preference">Enable receiving of notifications</string>
+    <string name="title_change_bank_account">Change bank account</string>
+    <string name="title_change_phone_number">Change phone number</string>
+    <string name="title_checkbox_preference">Receive notifications</string>
+    <string name="user_preferences">User preferences</string>
+    <!-- From: file:/D:/Development/SlidingMenu/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

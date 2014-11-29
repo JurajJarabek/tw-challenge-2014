@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/inline_preferences">
+
+        <CheckBoxPreference
+            android:key="checkbox_preference"
+            android:title="@string/title_checkbox_preference"
+            android:summary="@string/summary_checkbox_preference" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/user_preferences">
+
+        <EditTextPreference
+            android:key="edittext_preference"
+            android:title="@string/title_change_phone_number"
+            android:summary="@string/title_change_phone_number"
+            android:dialogTitle="@string/title_change_phone_number" />
+
+
+        <EditTextPreference
+            android:key="edittext_preference2"
+            android:title="@string/title_change_bank_account"
+            android:summary="@string/title_change_bank_account"
+            android:dialogTitle="@string/title_change_bank_account" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/others_preferences">
+
+        <Preference
+            android:title="@string/preference_logout"
+            android:summary="@string/preference_logout"/>
+
+
+
+    </PreferenceCategory>
+</PreferenceScreen>
