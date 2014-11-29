@@ -1,15 +1,18 @@
-
 Metrics
 
 
 There are many which will be specific to your product, but the major ones would include:
 
-User registrations over time
-User visits over time
-User activity over time
-Average time that user spend doing one transaction
-How many downloads from Apple Store/Google Play
-Comparison of all transactions with successful
+1. Activity statistics
+Shows the amount of registered users during the first week/month/year. Shows the activity of already registered users (how often do they visit the web page, how long do they stay there, which pages are the most frequently visited).
+2. Average transaction duration
+Average time when user manages to complete a transaction. 
+3. Number of application downloads.
+Helps to estimate how many people download and use the application. The more the number of downloads is, the more probability that application will be successful.
+4. Ratio of successful transactions among all transactions.
+Enables us to evaluate number of users who complete the transactions among them who uses the application.  
+5. Customer lifetime value
+Estimates the profits in the long run.
 
 This should give you a sense of 
 1) traction,
